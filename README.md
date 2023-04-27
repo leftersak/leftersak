@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/leftersak/leftersak/blob/main/coding-image.jpg)
 <h1 align="center">Hi 👋, I'm leftersak</h1>
 <h2 align="center">About me</h2>
-<p>A passionate developer in entry level with expertise in HTML5, CSS3, PYTHON. Fast learner, hard-working who is always looking for new challenges and opportunities to learn and grow. Sky is the limit!</p>
+<p>A passionate developer in entry level with expertise in HTML5, CSS3, PYTHON. Fast learner, hard-working who is always looking for new challenges and opportunities to learn and grow.</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leftersak&label=Profile%20views&color=0e75b6&style=flat" alt="leftersak" /> </p>
