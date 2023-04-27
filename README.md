@@ -1,4 +1,4 @@
-![Design and Development] (https://github.com/leftersak/main/coding-image.jpg)
+[![MasterHead](https://github.com/leftersak/main/coding-image.jpg)
 <h1 align="center">Hi 👋, I'm leftersak</h1>
 <h2 align="center">About me</h2>
 <p>A passionate developer in entry level with expertise in HTML5, CSS3, PYTHON. Fast learner, hard-working who is always looking for new challenges and opportunities to learn and grow. Sky is the limit!</p>
