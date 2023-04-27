@@ -1,4 +1,5 @@
-[![MasterHead](https://devonblog.com/wp-content/uploads/2017/09/codeblauw.jpg)
+[![MasterHead]
+<img align="center" alt="Coding" width="400" height="300" src="https://devonblog.com/wp-content/uploads/2017/09/codeblauw.jpg">
 <h1 align="center">Hi 👋, I'm leftersak</h1>
 <h2 align="center">About me</h2>
 <p>A passionate developer in entry level with expertise in HTML5, CSS3, PYTHON. Fast learner, hard-working who is always looking for new challenges and opportunities to learn and grow. Sky is the limit!</p>
