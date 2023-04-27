@@ -1,4 +1,4 @@
-[![MasterHead] (https://www.hp.com/us-en/shop/app/assets/images/uploads/prod/5%20Best%20Coding%20Programs%20for%20Aspiring%20Programmers1650304687858345.jpg)
+![Design and Development] 
 <h1 align="center">Hi 👋, I'm leftersak</h1>
 <h2 align="center">About me</h2>
 <p>A passionate developer in entry level with expertise in HTML5, CSS3, PYTHON. Fast learner, hard-working who is always looking for new challenges and opportunities to learn and grow. Sky is the limit!</p>
