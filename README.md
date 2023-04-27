@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+[![MasterHead](https://techcrunch.com/wp-content/uploads/2015/04/codecode.jpg)
 <h1 align="center">Hi 👋, I'm leftersak</h1>
 <h2 align="center">About me</h2>
 <p>A passionate developer in entry level with expertise in HTML5, CSS3, PYTHON. Fast learner, hard-working who is always looking for new challenges and opportunities to learn and grow. Sky is the limit!</p>
