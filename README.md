@@ -18,10 +18,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lefteris sakellaris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lefteris sakellaris" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/lefteris sakell12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="lefteris sakell12" height="30" width="40" /></a>
-<a href="https://fb.com/lefteris sakellaris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lefteris sakellaris" height="30" width="40" /></a>
-<a href="https://instagram.com/lefteris sakellaris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lefteris sakellaris" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lefteris-sakellaris-896696251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lefteris sakellaris" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21417241/lefteris-sakell12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="lefteris sakell12" height="30" width="40" /></a>
+<a href="https://www.facebook.com/lefteris.sakellaris.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lefteris sakellaris" height="30" width="40" /></a>
+<a href="https://www.instagram.com/lefterissakellaris/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lefteris sakellaris" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/leftersak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lefteris sakell12" height="30" width="40" /></a>
 </p>
 
