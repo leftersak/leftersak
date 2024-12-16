@@ -27,9 +27,8 @@
 
 ### 🎓 Certifications
 
-- [Azure Fundamentals Certification](https://learn.microsoft.com/el-gr/users/lefterissakellaris-4919/credentials/4bf27ccf7b2f6e8b?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+- [<img src="https://img.icons8.com/fluency/48/azure-1.png" alt="Azure Fundamentals" width="24" height="24"/> Azure Fundamentals Certification](https://learn.microsoft.com/el-gr/users/lefterissakellaris-4919/credentials/4bf27ccf7b2f6e8b?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
----
 
 ### 🚀 Connect With Me
 
