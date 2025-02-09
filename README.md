@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/leftersak/leftersak/main/A_futuristic_workspace_setup_with_multiple_monitor.png)
+![MasterHead](https://raw.githubusercontent.com/leftersak/leftersak/refs/heads/main/coding-header.png)
 
 
 <h1 align="center">Hi 👋, I'm Lefteris Sakellaris</h1>
