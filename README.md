@@ -1,4 +1,5 @@
-![MasterHead]([https://github.com/leftersak/leftersak/blob/main/coding-image.jpg](https://raw.githubusercontent.com/leftersak/leftersak/refs/heads/main/DALL%C2%B7E%202025-02-09%2021.49.10%20-%20A%20futuristic%20workspace%20setup%20with%20multiple%20monitors%20displaying%20lines%20of%20code%2C%20a%20sleek%20mechanical%20keyboard%2C%20and%20a%20glowing%20RGB%20mouse.%20The%20background%20fea.webp))
+![MasterHead](https://raw.githubusercontent.com/leftersak/leftersak/main/A_futuristic_workspace_setup_with_multiple_monitor.png)
+
 
 <h1 align="center">Hi 👋, I'm Lefteris Sakellaris</h1>
 
